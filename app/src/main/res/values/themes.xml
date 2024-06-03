@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.TaApaDoSzlakow" parent="android:ThemeOverlay.Material.Dark.ActionBar">
+
+    </style>
+</resources>
